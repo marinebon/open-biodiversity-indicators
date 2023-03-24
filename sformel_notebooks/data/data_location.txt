@@ -1,0 +1,4 @@
+All raw data can be reproduced by downloading the appropriate GBIF/OBIS snapshot parquet files and running code to generate any downstream products.
+
+GBIF: https://registry.opendata.aws/gbif/
+OBIS: https://obis.org/data/access/
