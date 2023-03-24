@@ -34,7 +34,7 @@ knitr::opts_chunk$set(
 
 OBIS is small enough to analyse by itself on a decent laptop computer or a small cluster. We have previously visualized ES50 for OBIS data by decade.
 
-<img src="../../static/img/decadal_animation.gif" alt="OBIS Global ES50" width="90%"/>
+<img src="../data/decadal_animation.gif" alt="OBIS Global ES50" width="90%"/>
 
 But adding GBIF has an order of magnitude more records than OBIS, so combining the two takes it to another level.  Options for tackling this volume of data include increasing the memory in your cluster or splitting up the analysis into more manageable chunks.  Here we demonstrate the latter.
 
